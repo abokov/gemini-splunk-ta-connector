@@ -1,4 +1,4 @@
-# Gemini-Splunk Connector (PoC)
+# Gemini-Splunk Technical Addon Connector (PoC)
 
 ## Executive Summary
 This Proof of Concept (PoC) integrates Google's Gemini LLM directly into Splunk Enterprise/Cloud. It enables security analysts and IT ops teams to pass complex logs, alerts, or trace data directly to Gemini from the Splunk Search bar using a custom search command (`| gemini`). 
