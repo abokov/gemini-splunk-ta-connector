@@ -1,3 +1,4 @@
+!TBD! - this repo is WIP, please take a look on ADK connector - [splunk-gemini-agent](https://github.com/abokov/splunk-gemini-agent)
 # Gemini-Splunk Technical Addon Connector (PoC)
 
 ## Executive Summary
